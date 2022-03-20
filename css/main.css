@@ -1,0 +1,110 @@
+.navbar-light .navbar-brand {
+    color: #2c4cca;
+}
+.navlink { 
+    color: #808ba0;
+}
+.navbar {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.how-section1{
+    margin-top:0%;
+    padding: 0%;
+}
+.how-section1 h4{
+    color: #1f3e72;
+    font-weight: bold;
+    font-size: 90px;
+    text-align: left;
+    padding: 15%;
+}
+.how-section1 .subheading{
+    color: #6d7b93;
+    font-size: 25px;
+    text-align: left;
+    margin-top: -30%;
+    margin-left: -10%;
+    padding: 25%;
+    
+}
+.how-section1 .card-title {
+    color: #1f3e72;
+    font-size: 25px;
+    text-align: left;
+    
+    
+}
+.how-section1 .card-body {
+    color: #6d7b93;
+    font-size: 15px;
+    text-align: left;
+    
+}
+.how-section1 .mid{
+    color: #1f3e72;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: left;
+    margin-top: -10%;
+    padding: 15%;
+}
+.how-section1 .subheading2{
+    color: #6d7b93;
+    font-size: 25px;
+    text-align: left;
+    margin-top: -30%;
+    margin-left: -10%;
+    padding: 25%;
+    
+}
+.how-section1 .logo{
+    padding: 5%;
+    justify-content: center;
+}
+.how-section1 .row
+{
+    margin-top: 00%;
+}
+.how-img 
+{
+    text-align: center;
+}
+.how-img img{
+    width: 100%;
+}
+.filter-grey {
+    filter: grayscale(100%) opacity(20%);
+}
+.icon {
+    width: 60px;
+    height: 60px;
+    padding: 5%;
+    background-color: #ebf0ff; 
+
+}
+.icon2 {
+    width: 30px;
+    height: 30px;
+    padding: 0%;
+
+}
+.card {
+    height: 400px;
+    margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+.card2 {
+    height: 250px;
+    margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+.btn {
+    width: 270px;
+    margin-left: -10%;
+    background-color: #f1f5ff;
+}
